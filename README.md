@@ -7,3 +7,7 @@
 <h2 align="center">
 Here are the writeups for CTFs I have participated in. 
 </h2> 
+
+- Jersey CTF
+- Meta CTF
+- Global Cyber War CTF
