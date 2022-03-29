@@ -16,7 +16,7 @@
 
 <ul dir="auto">
   <li>
-    <a href="#">Forensics/a>
+    <a href="#">Forensics</a>
   </li>
 </ul>
 
