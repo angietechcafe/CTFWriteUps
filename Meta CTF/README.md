@@ -7,7 +7,7 @@
 
 <ul dir="auto">
   <li>
-    <a href="#">Crypto</a>
+    <a href="https://github.com/angieintech/CTFWriteUps/tree/main/Meta%20CTF/Crypto">Crypto</a>
   </li>
 </ul>
 
