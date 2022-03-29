@@ -18,6 +18,6 @@
 
 <ul dir="auto">
   <li>
-    <a href="#">Web</a>
+    <a href="https://github.com/angieintech/CTFWriteUps/tree/main/Meta%20CTF/Web">Web</a>
   </li>
 </ul>
