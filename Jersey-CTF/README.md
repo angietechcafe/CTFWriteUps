@@ -1,6 +1,6 @@
 <h1>Jersey CTF 2022 Write-ups</h1>
 
-
+![technical-g46b64c59a_640](https://user-images.githubusercontent.com/22628008/160697238-33176bcb-6400-4ae5-b1a2-c190a6b67372.png)
 
 <h3 dir="auto">
   <a id="user-content-crypto" class="anchor" aria-hidden="true" href="#crypto"> </a>
