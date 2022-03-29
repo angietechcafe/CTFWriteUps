@@ -5,7 +5,6 @@
 
 <ul dir="auto">
   <li>
-  ::marker
     <a href="#">Crypto</a>
   </li>
 </ul>
@@ -17,7 +16,6 @@
 
 <ul dir="auto">
   <li>
-  ::marker
     <a href="#">Forensics/a>
   </li>
 </ul>
@@ -29,7 +27,6 @@
 
 <ul dir="auto">
   <li>
-  ::marker
     <a href="#">Misc</a>
   </li>
 </ul>
@@ -41,7 +38,6 @@
 
 <ul dir="auto">
   <li>
-  ::marker
     <a href="#">Pwn</a>
   </li>
 </ul>
@@ -53,7 +49,6 @@
 
 <ul dir="auto">
   <li>
-  ::marker
     <a href="#">Web</a>
   </li>
 </ul>
