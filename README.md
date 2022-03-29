@@ -8,6 +8,6 @@
 Here are the writeups for CTFs I have participated in. 
 </h2> 
 
-- [Jersey CTF]()
-- [Meta CTF]()
+- [Jersey CTF](https://github.com/angieintech/CTFWriteUps/tree/main/Jersey-CTF)
+- [Meta CTF](https://github.com/angieintech/CTFWriteUps/tree/main/Meta-CTF)
 
