@@ -10,4 +10,4 @@ Here are the writeups for CTFs I have participated in.
 
 - [Jersey CTF]()
 - [Meta CTF]()
-- [Global Cyber War CTF]()
+
