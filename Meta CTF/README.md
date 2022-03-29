@@ -1,10 +1,5 @@
 <h1>Meta CTF 2021 Write-ups</h1>
 
-<h3 dir="auto">
-  <a id="user-content-crypto" class="anchor" aria-hidden="true" href="#base64"> </a>
-  Base64
-</h3>
-
 <ul dir="auto">
   <li>
     <a href="#">Base64</a>
