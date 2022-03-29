@@ -15,7 +15,7 @@ See if you’re able to recover the Administrator's password.</p>
 <h2>Steps to get the flag</h2>
 <p> 1. The two equal signs at the end of this encoded string represents Base64.</p>
 <p> 2. In order to decrpyt this password, we can use a Base64 decrpyt tool such as CyberChef. 
-I used the From base64 recipe to solve this challenge.</p>
+I used the From Base64 recipe to solve this challenge.</p>
 
 <img width="1129" alt="base64 challenge" src="https://user-images.githubusercontent.com/22628008/160703617-63151796-093d-4655-882c-99211f5dbba5.png">
 
