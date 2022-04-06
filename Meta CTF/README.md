@@ -12,7 +12,7 @@
 
 <h3 dir="auto">
   <a id="user-content-web" class="anchor" aria-hidden="true" href="#web"> </a>
-  Web
+  Web 🕸️
 </h3>
 
 <ul dir="auto">
