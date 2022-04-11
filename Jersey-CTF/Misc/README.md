@@ -18,6 +18,7 @@
 
 <img width="602" alt="rootme" src="https://github.com/angieintech/CTFWriteUps/blob/main/Jersey-CTF/Misc/Lfile_date.png?raw=true">
 
+<img width="602" alt="rootflag" src="https://github.com/angieintech/CTFWriteUps/blob/main/Jersey-CTF/Misc/root_flag.png?raw=true">
 
 
 <h2>Flag</h2>
