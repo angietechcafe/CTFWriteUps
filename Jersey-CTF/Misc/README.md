@@ -10,8 +10,15 @@
 
 
 <h2>Steps to get the flag</h2>
-<!--<p>I ssh into the Ubuntu box and at first did an Nmap scan to view any open ports. </p>
+<p>First I ssh into the Ubuntu box and decided to discover suid bit setfiles. It made sense because I could not use vim, sudo or install anything on this box. The challenge says to find the flag so I took it literally and used the find linux command. I ended up using the perm option to gain permission as well as finding a specific file type. In this case, it would the flag file. I also used the 2>/dev/null to view errors and look for stickybit for the user with this parameter: u=s. I cannot read it by simply using a cat command. So I googled linux date and saw the gtfob date and followed the format: LFILE=file_to_read. Then I typed date -f $LFILE and got weird date messages. Now that I know how it works, I will try the LFILE with /root/flag.txt and voila a flag. Found the flag by luck and believed it would be a text file since the root user did not have a lot of options. </p>
+
+<!--<img width="602" alt="rootme" src="#">
+
+<img width="602" alt="rootme" src="#">
+
 <img width="602" alt="rootme" src="#">-->
+
+
 
 <h2>Flag</h2>
 <p>jctf{4cc355_6r4n73d}</p>
