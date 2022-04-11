@@ -14,4 +14,4 @@
 <img width="602" alt="rootme" src="#">-->
 
 <h2>Flag</h2>
-<p>jctf{4cc355_6r4n73d</p>
+<p>jctf{4cc355_6r4n73d}</p>
