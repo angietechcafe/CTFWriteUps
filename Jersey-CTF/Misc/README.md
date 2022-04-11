@@ -4,7 +4,8 @@
 
 <p>SSH into the challenge host, 0.cloud.chals.io on port 19777.
    
-   Username: ubuntu Password: jctf2022!
+   Username: ubuntu 
+   Password: jctf2022!
    
    Find the flag.</p>
 
