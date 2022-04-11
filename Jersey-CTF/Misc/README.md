@@ -14,9 +14,9 @@
 
 <img width="602" alt="sshlogin" src="https://github.com/angieintech/CTFWriteUps/blob/main/Jersey-CTF/Misc/SSH%20Login.png?raw=true">
 
-<!--<img width="602" alt="rootme" src="#">
+<img width="602" alt="findcommand" src="https://github.com/angieintech/CTFWriteUps/blob/main/Jersey-CTF/Misc/find%20command%20linux.png?raw=true">
 
-<img width="602" alt="rootme" src="#">-->
+<!--<img width="602" alt="rootme" src="#">-->
 
 
 
