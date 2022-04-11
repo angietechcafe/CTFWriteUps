@@ -8,7 +8,7 @@
 
 <ul dir="auto">
   <li>
-    <a href="#">Misc</a>
+    <a href="https://github.com/angieintech/CTFWriteUps/tree/main/Jersey-CTF/Misc">Misc</a>
   </li>
 </ul>
 
