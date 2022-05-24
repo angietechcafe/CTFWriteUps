@@ -7,4 +7,5 @@ Here are the write-ups for CTFs I have participated in.
 
 - [Jersey CTF](https://github.com/angieintech/CTFWriteUps/tree/main/Jersey-CTF)
 - [Meta CTF](https://github.com/angieintech/CTFWriteUps/tree/main/Meta%20CTF)
+- [TJCTF](https://github.com/angieintech/CTFWriteUps/tree/main/TJCTF) 
 
