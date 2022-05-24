@@ -10,7 +10,7 @@
 
 <img width="700" alt="where's the lamb sauce" src="https://github.com/angieintech/CTFWriteUps/blob/main/TJCTF/Web/wheres_the_lamb_sauce_html.png?raw=true">
 
-<img width="602" alt="where's the lamb sauce video" src="#">
+<img width="602" alt="where's the lamb sauce video" src="https://github.com/angieintech/CTFWriteUps/blob/main/TJCTF/Web/where's_the_lamb_sauce_web_site.png?raw=true">
 
 <h2>Flag</h2>
 <p>tjctf{idk_man_but_here's_a_flag_462c964f0a177541}</p>
