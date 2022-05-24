@@ -1,0 +1,15 @@
+<h2>Angie's Write-up for fake-geoguesser (227 points)</h2>
+
+<h3>Challenge description</h3>
+
+<!--<p></p>-->
+
+<h2>Steps to get the flag</h2>
+
+<!-<p>-->
+
+<img width="602" alt="forensicallyOne" src="#">
+<img width="602" alt="forensicallyTwo" src="#">
+
+<h2>Flag</h2>
+<p>tjctf{thats_a_lot_of_metadata}</p>
