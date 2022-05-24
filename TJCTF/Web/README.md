@@ -8,7 +8,9 @@
 
 <p>First, I checked the source code of the web page and then saw an HTML comment with an aref HTML tag and it contained a flag text file. I edited the HTML by taking out th and reloaded the site. Then I was able to click on the text file and view the hidden message aka the flag: "idk_man_but_here's_a_flag_462c964f0a177541" </p>
 
-<img width="602" alt="where's the lamb sauce" src="#">
+<img width="602" alt="where's the lamb sauce" src="https://github.com/angieintech/CTFWriteUps/blob/main/TJCTF/Web/wheres_the_lamb_sauce_html.png?raw=true">
+
+<img width="602" alt="where's the lamb sauce video" src="#">
 
 <h2>Flag</h2>
 <p>tjctf{idk_man_but_here's_a_flag_462c964f0a177541}</p>
