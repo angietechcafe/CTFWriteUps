@@ -2,7 +2,9 @@
 
 <h3>Challenge description</h3>
 
-<!--<p></p>-->
+<p>We don't do guess challs here at TJCTF, so that means no Geoguessr 😔 Since I took this photo myself, 
+though, you can find out precisely where it was taken, and some Bonus Content™, from my Camera Model Name 
+to the Circle of Confusion. Maybe you'll find a flag there?</p>
 
 <h2>Steps to get the flag</h2>
 
