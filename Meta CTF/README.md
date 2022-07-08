@@ -1,4 +1,4 @@
-<h1>Meta CTF 2021 Write-ups</h1>
+<h1>MetaCTF 2021 Write-ups</h1>
 
 <h3 dir="auto">
   <a id="user-content-crypto" class="anchor" aria-hidden="true" href="#crypto"> </a>
