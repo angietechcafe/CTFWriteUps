@@ -20,8 +20,14 @@
     <a href="https://github.com/angieintech/CTFWriteUps/tree/main/Meta%20CTF/Web">Web</a>
   </li>
 </ul>
+
+<h3 dir="auto">
+  <a id="user-content-binary" class="anchor" aria-hidden="true" href="binary"></a>
+  Binary 🔟
+</h3>
+
 <ul>
 <li>
-  <a href="#">Binary 🔟</a>
+  <a href="#">Binary</a>
 </li>
 </ul>
