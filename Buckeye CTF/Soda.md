@@ -1,4 +1,4 @@
-<h1> Angie's Write-up for Soda (Beginner> </h1>
+<h1> Angie's Write-up for Soda (Beginner) </h1>
 
 <h2>Challenge description</h2>
 <p></p>
