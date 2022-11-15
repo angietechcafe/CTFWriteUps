@@ -1,6 +1,5 @@
 <h1>Buckeye CTF Writeups </h1>
 
-<ol>
-<li>Web Exploitation: buckeyenotes</li>
-<li>Reverse Engineering: soda </li>
-  </ol>
+
+- [Web Exploitation](https://github.com/angietechcafe/CTFWriteUps/blob/main/Buckeye%20CTF/Buckeyenotes.MD)
+- [Reverse Engineering](https://github.com/angietechcafe/CTFWriteUps/blob/main/Buckeye%20CTF/Soda.md)
