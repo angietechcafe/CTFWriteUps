@@ -13,7 +13,6 @@
   
  <h3>Steps to get the flag</h3>
  
- <p>1. Figure out what the problem is trying to ask us. In this case, this vulnerability is a string format vulnerability.
+ <p>1. Figure out what the problem is trying to ask us. In this case, this vulnerability is a string format vulnerability. In other words, we can use '%s' in python to manipulate the data. 
     <!---2. This is a pwn challenge. We can solve this challenge in several ways. In this case, I will use the pwn library from Python.--> </p>
  
- <h3>Flag: MetaCTF{<spoiler flag>}</h3>
