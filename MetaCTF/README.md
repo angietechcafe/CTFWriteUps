@@ -21,10 +21,6 @@
   </li>
 </ul>
 
-<h3 dir="auto">
-  <a id="user-content-binary" class="anchor" aria-hidden="true" href="binary"></a>
-  Binary 🔟
-</h3>
 
 <ul>
 <li>
