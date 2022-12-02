@@ -21,9 +21,3 @@
   </li>
 </ul>
 
-
-<ul>
-<li>
-  <a href="https://github.com/angieintech/CTFWriteUps/tree/main/MetaCTF/Binary%20%F0%9F%94%9F">Binary</a>
-</li>
-</ul>
