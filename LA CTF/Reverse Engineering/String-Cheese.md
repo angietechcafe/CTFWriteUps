@@ -1,4 +1,4 @@
-# String Cheese 
+# String-Cheese 
 
 <h1>Challenge Description</h1>
 
