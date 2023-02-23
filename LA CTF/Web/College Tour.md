@@ -4,7 +4,7 @@
 
 <img width="700" alt="college-tour" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/LA%20CTF/Web/LA%20Web%20Challenge.png">
 
-<img width="700" alt="college-tour-clues" src="#">
+<img width="700" alt="college-tour-clues" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/LA%20CTF/Web/college-tour-clues.png">
 
 <h2>Steps to get the flag: </h2>
 
