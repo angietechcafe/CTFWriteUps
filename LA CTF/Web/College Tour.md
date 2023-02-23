@@ -12,13 +12,15 @@
 
 <img width="700" alt="part-one-html" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/LA%20CTF/Web/First%20set%20of%20clues.png">
 
-2. Next, I went to the CSS page and discovered that the secret font family was the fourth part of the flag: lactf{3_S3phI}.
+2. Next, I went to the CSS page and noticed that the secret font family was the fourth part of the flag: lactf{3_S3phI}.
 
 <img width="700" alt="part-two-css" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/LA%20CTF/Web/index.png">
 
-3. 
+3. The last clue was discovered in the JavaScript file. - It was a cookie.
 
 <img width="700" alt="part-three-js" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/LA%20CTF/Web/JS.png">
+
+4. The last part of getting the official flag is combining all the clues. Then you will have lactf{j03_4nd_j0S3phIn3_bRU1n_sAY_hi}.
 
 <h2>Flag</h2>
 <p>lactf{j03_4nd_j0S3phIn3_bRU1n_sAY_hi}</p>
