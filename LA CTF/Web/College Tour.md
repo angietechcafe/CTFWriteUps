@@ -6,7 +6,7 @@
 
 <h2>Steps to get the flag: </h2>
 
-1. According to the hint, six hidden clues are formatted as lactf{number_text}. I used the inspector tool and discovered clues from the index.html page. The clues were an HTML comment, an HTML alt attribute, and the iframe source. 
+1. According to the hint, six hidden clues are formatted as lactf{number_text}. I used the inspector tool and discovered clues from the index.html page. The first clues were an HTML comment, an HTML alt attribute, and the iframe source. 
 
 <img width="700" alt="part-one" src="#">
 
