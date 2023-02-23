@@ -8,7 +8,7 @@
 
 1. According to the hint, six hidden clues are formatted as lactf{number_text}. I used the inspector tool and discovered clues from the index.html page. The first clues were an HTML comment, an HTML alt attribute, and the iframe source. 
 
-<img width="700" alt="part-one" src="#">
+<img width="700" alt="part-one" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/LA%20CTF/Web/First%20set%20of%20clues.png">
 
 3. <!--Next, I went to the CSS page and discovered-->
 
