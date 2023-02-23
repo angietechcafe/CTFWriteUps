@@ -4,6 +4,8 @@
 
 <img width="700" alt="college-tour" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/LA%20CTF/Web/LA%20Web%20Challenge.png">
 
+<img width="700" alt="college-tour-clues" src="#">
+
 <h2>Steps to get the flag: </h2>
 
 1. According to the hint, six hidden clues are formatted as lactf{number_text}. I used the inspector tool and discovered clues from the index.html page. The first clues were an HTML comment, an HTML alt attribute, and the iframe source. 
