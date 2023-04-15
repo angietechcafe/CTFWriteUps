@@ -1,4 +1,4 @@
-<h1>Buckeye CTF Writeups </h1>
+<h1>BuckeyeCTF Writeups </h1>
 
 
 - [Web Exploitation](https://github.com/angietechcafe/CTFWriteUps/blob/main/Buckeye%20CTF/Web%20Exploitation/Buckeyenotes.MD)
