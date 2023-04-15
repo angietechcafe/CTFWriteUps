@@ -11,5 +11,5 @@
   I used the grab command to get the flag, which worked. <p>
   
 <img width="700" alt="purchase soda" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/BuckeyeCTF/Purchase.png?raw=true">
-<img width="700" alt="tap and wait 11" src="#">
+<img width="700" alt="tap and wait 11" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/BuckeyeCTF/tap%20and%20wait%2011.png?raw=true">
 <img width="700" alt="reach and grab soda flag" src="#">
