@@ -10,6 +10,6 @@
   Afterward, I used the reach command, and the most expensive soda would fall for the vending machine. 
   I used the grab command to get the flag, which worked. <p>
   
-<img width="700" alt="purchase soda" src="#">
+<img width="700" alt="purchase soda" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/BuckeyeCTF/Purchase.png?raw=true">
 <img width="700" alt="tap and wait 11" src="#">
 <img width="700" alt="reach and grab soda flag" src="#">
