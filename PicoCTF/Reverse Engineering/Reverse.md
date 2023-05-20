@@ -10,4 +10,4 @@
 
 <img width="700" alt="reverse_one" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/PicoCTF/Reverse%20Engineering/Classes.png?raw=true">
 <img width="700" alt="reverse_one" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/PicoCTF/Reverse%20Engineering/_Fini_One.png?raw=true">
-<img width="700" alt="reverse_one" src="#">
+<img width="700" alt="reverse_one" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/PicoCTF/Reverse%20Engineering/_Fini_Two.png?raw=true">
