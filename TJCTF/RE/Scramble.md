@@ -2,7 +2,7 @@
 
 <h2>Challenge description</h2>
 
-<p>oops, i think my siblings messed with the line order a little. The first three lines are given</p>
+<p>oops, i think my siblings messed with the line order a little. The first three lines are given.</p>
 
 <h3>Steps to get the flag</h3>
 
