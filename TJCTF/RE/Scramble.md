@@ -8,5 +8,5 @@
 
 
 
-<img width="700" alt="scramble_before" src="#">
+<img width="700" alt="scramble_before" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/TJCTF/RE/scramble_1.png?raw=true">
 <img width="700" alt="scramble_after" src="#">
