@@ -6,4 +6,4 @@
 <img  width="700" alt="bucket-policy" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/AWS%20Bucket%20Policy.png?raw=true">
 
 <h3>Steps to get the flag</h3>
-<p>The first thing I did was identify the AWS IAM policy. In this case, I can access a list of objects. The first hint was the prefix */files. I looked at the AWS documentation and used this AWS command "aws s3api list-objects --bucket thebigiamchallenge-storage-9979f4b --prefix files".  </p>
+<p>The first thing I did was identify the AWS IAM policy. In this case, I can access a list of objects. The first hint was the prefix */files. I looked at the AWS documentation and used this AWS command "aws s3api list-objects --bucket thebigiamchallenge-storage-9979f4b --prefix files". There is a flag text file here. <!--Afterwards, I download an object from S3 using the following command, "aws s3api-->  </p>
