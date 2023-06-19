@@ -3,5 +3,7 @@
 <h2>Challenge Description</h2>
 <p>We all know that public buckets are risky. But can you find the flag?</p>
 
+<img src="#" alt="bucket-policy">
+
 <h3>Steps to get the flag</h3>
-<p>The first thing I did was identify the AWS IAM policy. In this case, it was a JSON policy. <!----I was provided with an AWS ClI---> </p>
+<p>The first thing I did was identify the AWS IAM policy. In this case, I can access a list of objects. The first hint was the prefix */files. I looked at the AWS documentation and used this AWS command "aws s3api list-objects --bucket thebigiamchallenge-storage-9979f4b --prefix files".  </p>
