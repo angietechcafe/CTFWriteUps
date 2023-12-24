@@ -9,5 +9,5 @@ Join our queue and get the secret flag.</p>
 
 <h3>Steps to get the flag</h3>
 <p>The first thing I did was identify the AWS IAM policy. It states that I can send and receive SQS messages. I also noticed the ARN, created a queue URL and received a message.
-<img  width="700" alt="sqs-receive-message" src="#"
+<img  width="700" alt="sqs-receive-message" src="#">
 <p>Flag: {wiz:#######-#######-#####-##-###} </p>
