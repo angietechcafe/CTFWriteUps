@@ -8,8 +8,8 @@ Join our queue and get the secret flag.</p>
 <img  width="700" alt="sqs-policy" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/SQS%20IAM%20Policy.png?raw=true">
 
 <h3>Steps to get the flag</h3>
-<p>The first thing I did was identify the AWS IAM policy. It states that I can send and receive SQS messages. The challenge description also showed that we ought to use a queue to receive the flag. I also noticed the ARN, created a queue URL and received a message.</p>
+<p>The first thing I did was identify the AWS IAM policy. It states that I can send and receive SQS messages. The challenge description also showed that we should use a queue to receive the flag. I also noticed the ARN, created a queue URL and received a message. Lastly, I clicked on the URL and got the flag. For this reason, I won't be able to show the answer since this challenge is still available.</p>
   
 <img  width="700" alt="sqs-receive-message" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/SQS%20Receive%20Message.png?raw=true">
 
-<p>Flag: {wiz:#######-#######-#####-##-###} </p>
+<p>Flag: {wiz:###-###-##-###-#####-##-###-#####} </p>
