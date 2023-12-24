@@ -6,9 +6,11 @@
 
 <h3>Steps to get the flag</h3>
 The first thing I did was view the permissions from the AWS EKS cluster. Then, I used the AWS Kubernetes help command. I.e., kubectl --help. 
-Afterward, I typed kubectl edit secrets. I saw the flag, and it was in base64. I closed the file, used CyberChef to decode it, and got the flag.
+Next, I could access the secrets file with "kubectl get secrets." Afterward, I typed kubectl edit secrets. I saw the flag, and it was in base64. I closed the file, used CyberChef to decode it, and got the flag.
 
-<img width="700" alt="kubectl1" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/EKS%20Cluster%20Games/Kubectl%201.png?raw=true">
+<img width="700" alt="kubectl3" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/EKS%20Cluster%20Games/kubetcl%20get%20secrets.png?raw=true">
+
+<img width="700" alt="kubectl2" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/EKS%20Cluster%20Games/Kubectl%201.png?raw=true">
 
 <img width="700" alt="kubectl1" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/EKS%20Cluster%20Games/kube%20flag%20cyberchef.png?raw=true">
 
