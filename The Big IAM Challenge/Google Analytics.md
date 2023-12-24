@@ -5,7 +5,7 @@
 
 Join our queue and get the secret flag.</p>
 
-<img  width="700" alt="sqs-policy" src="#">
+<img  width="700" alt="sqs-policy" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/SQS%20IAM%20Policy.png?raw=true">
 
 <h3>Steps to get the flag</h3>
 <p>The first thing I did was identify the AWS IAM policy. It states that I can send and receive SQS messages. I also noticed the ARN, created a queue URL and received a message.</p>
