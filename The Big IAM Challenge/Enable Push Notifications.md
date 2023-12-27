@@ -1,7 +1,7 @@
 <h1>Angie's Enable Push Notification Writeup (10 points)</h1>
 
 <h2>Challenge Description</h2>
-<p> </p>
+<img  width="700" alt="sns-policy" src="#">
 
 <img  width="700" alt="sns-policy" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/AWS%20SNS%20IAM%20POLICY.png?raw=true">
 
