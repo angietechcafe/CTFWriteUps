@@ -11,7 +11,7 @@
     --protocol email \
     --notification-endpoint 'my-email@example.com' ". I changed the notification endpoint with the one provided by Wiz as well as my topic-arn and pressed enter. Afterward, I received a pending confirmation - however, I did not set up an email to receive this notification, so I needed a webhook to get the flag. I realized I needed a webhook after receiving an error message from AWS CLI. </p>
 
-<img  width="700" alt="sns-webhook-error" src="#">
+<img  width="700" alt="sns-webhook-error" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/SNS%20error%20message.png?raw=true">
 
 <img  width="700" alt="sns pending confirmation" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/SNS%20Subsription%20Pending.png?raw=true">
     
