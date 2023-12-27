@@ -3,7 +3,7 @@
 <h2>Challenge Description</h2>
 <p> </p>
 
-<img  width="700" alt="sns-policy" src="#">
+<img  width="700" alt="sns-policy" src="https://github.com/angietechcafe/CTFWriteUps/blob/main/The%20Big%20IAM%20Challenge/AWS%20SNS%20IAM%20POLICY.png?raw=true">
 
 <h3>Steps to get the flag</h3>
 <p>The first thing I did was identify the AWS IAM policy. It states that I can enable a push notification with the endpoint. I looked at the documentation regarding subscribing to a sns notification with the following command "aws sns subscribe \
