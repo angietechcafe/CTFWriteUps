@@ -5,7 +5,7 @@
 Here are the write-ups for CTFs I have participated in. 
 </h2> 
 
--[Medium Cyber Education Blogs](https://angietechcafe.medium.com/list/angies-tech-content-track-d5a0c656fa30)
+- [Medium Cyber Education Blogs](https://angietechcafe.medium.com/list/angies-tech-content-track-d5a0c656fa30)
 - [PicoCTF](https://github.com/angietechcafe/CTFWriteUps/tree/main/PicoCTF)
 - [LA CTF](https://github.com/angietechcafe/CTFWriteUps/tree/main/LA%20CTF)
 - [Jersey CTF](https://github.com/angieintech/CTFWriteUps/tree/main/Jersey-CTF)
